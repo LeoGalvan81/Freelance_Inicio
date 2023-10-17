@@ -27,3 +27,11 @@ body {
 .nav-bg {
     background-color: var(--secundario);
 }
+.navegacion-principal {
+    padding: 1rem;
+    display: flex;
+}
+.navegacion-principal a {
+    color: var(--blanco);
+    text-decoration: none;
+}
